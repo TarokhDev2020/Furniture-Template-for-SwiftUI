@@ -1,5 +1,5 @@
 # Furniture-Template-for-SwiftUI
-Furniture Template written by SwiftUI
+Furniture Template using SwiftUI
 
 ## Installation ##
 * Git and clone <br/>
